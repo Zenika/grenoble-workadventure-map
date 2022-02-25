@@ -478,14 +478,6 @@
          "tilewidth":32
         }, 
         {
-         "firstgid":2683,
-         "source":"src\/assets\/23_Room_Builder_32x32_INRIA.tsx"
-        }, 
-        {
-         "firstgid":6173,
-         "source":"src\/assets\/LogoZ.json"
-        }, 
-        {
          "columns":15,
          "firstgid":6368,
          "image":"src\/assets\/Vertical_Black_Logo Zenika.png",
