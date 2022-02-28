@@ -136,7 +136,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebpage",
+                 "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/www.youtube.com\/embed\/GmYMjxqWC0s"
                 }, 
@@ -169,7 +169,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebpage",
+                 "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/openfeedback.io\/cleanarchifrontzenika\/2022-03-01\/gOryRAorJ6IhL23TkP0m"
                 }, 
