@@ -121,6 +121,16 @@
                  "name":"openWebpage",
                  "type":"string",
                  "value":"https:\/\/www.youtube.com\/embed\/GmYMjxqWC0s"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"Press SPACE \/ touch to launch the Stream"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -139,6 +149,16 @@
                  "name":"openWebpage",
                  "type":"string",
                  "value":"https:\/\/openfeedback.io\/cleanarchifrontzenika\/2022-03-01\/gOryRAorJ6IhL23TkP0m"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"Press SPACE \/ touch to give your feedback"
                 }],
          "type":"tilelayer",
          "visible":true,
