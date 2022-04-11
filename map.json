@@ -192,9 +192,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
-                 "type":"string",
-                 "value":"https:\/\/www.youtube.com\/embed\/GmYMjxqWC0s"
+                 "name": "openWebsite",
+                 "type": "string",
+                 "value": "https:\/\/www.youtube.com\/embed\/KNnHORvj6Hc"
                 }],
          "type":"tilelayer",
          "visible":true,
