@@ -212,7 +212,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/openfeedback.io\/cleanarchifrontzenika\/2022-03-01\/gOryRAorJ6IhL23TkP0m"
+                 "value":"https:\/\/openfeedback.io\/cleanarchifrontzenika\/2022-04-12\/ZB8sVHcaDEAUk2QAHUhJ"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
@@ -265,7 +265,7 @@
                  "value":"Appuie sur ESPACE pour ouvrir le site d'OCEA"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":31,
          "x":0,
          "y":0
@@ -361,7 +361,7 @@
          "name":"CustomerAdd",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":31,
          "x":0,
          "y":0
